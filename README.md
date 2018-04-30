@@ -8,4 +8,3 @@ A Simple commandline python script for random password generation.
 2) chmod +x ranpass.py
    
    ./ranpass.py 8
-
