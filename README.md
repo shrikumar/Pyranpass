@@ -2,9 +2,9 @@ A Simple commandline python script for random password generation.
 
 **To execute the script** 
 
-1) python ranpass.py <'password strength'>
+1) python ranpass <'password strength'>
 	 
-	 Ex: python ranspass.py 10
-2) chmod +x ranpass.py
+	 Ex: python ranpass.py 10
+2) chmod +x ranpass
    
-   ./ranpass.py 8
+   ./ranpass 8
